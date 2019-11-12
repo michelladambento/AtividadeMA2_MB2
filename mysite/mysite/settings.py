@@ -26,8 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # Local Apps
-    'polls', 
-    'polls2',   
+    'polls',     
 ]
 
 MIDDLEWARE = [
