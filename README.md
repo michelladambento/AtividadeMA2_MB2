@@ -1,9 +1,9 @@
 # AtividadeMA2_MB2
 
 - Atividade Professor Orlando Saraiva
-- Nome: Michell Adam Bento     RA: 880009
+- Nome: Michell Adam Bento     RA: 88009
 - Nome: Max Santos             RA: 88511
-- Nome: Orlando Daniel Longo   RA: 
+- Nome: Orlando Daniel Longo   RA: 92960
 
 ### Instalação Essencial
 
